@@ -1,0 +1,30 @@
+{
+  "store": {
+    "book": [
+      {
+        "author": "Nigel Rees",
+        "category": "reference",
+        "price": 145.5,
+        "title": "Sayings of the Century"
+      },
+      {
+        "author": "J.K. Rowling",
+        "category": "fiction",
+        "price": 29.99,
+        "title": "Harry Potter and the Sorcerer's Stone"
+      },
+      {
+        "author": "George Orwell",
+        "category": "dystopian",
+        "price": 19.99,
+        "title": "1984"
+      },
+      {
+        "author": "Harper Lee",
+        "category": "classic",
+        "price": 24.95,
+        "title": "To Kill a Mockingbird"
+      }
+    ]
+  }
+}

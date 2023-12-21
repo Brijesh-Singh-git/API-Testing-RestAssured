@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "location": "india",
+      "phone": "123-456-7890",
+      "courses": [
+        "Java",
+        "Selenium",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rohan Das",
+      "location": "Japan",
+      "phone": "4561226",
+      "courses": [
+        "DevOps",
+        "CyberSecurity",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "location": "Saudi Arabia",
+      "phone": "15656",
+      "courses": [
+        "DevOps",
+        "CyberSecurity",
+        "Python"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "David Bellick",
+      "location": "Saudi Arabia",
+      "phone": "15656",
+      "courses": [
+        "DevOps",
+        "CyberSecurity",
+        "Python"
+      ]
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": 5
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": 6
+    }
+  ]
+} 
+
+
