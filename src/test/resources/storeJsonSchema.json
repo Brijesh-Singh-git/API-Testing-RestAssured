@@ -1,0 +1,106 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "book": {
+            "type": "array",
+            "items": [
+                {
+                    "type": "object",
+                    "properties": {
+                        "author": {
+                            "type": "string"
+                        },
+                        "category": {
+                            "type": "string"
+                        },
+                        "price": {
+                            "type": "number"
+                        },
+                        "title": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "author",
+                        "category",
+                        "price",
+                        "title"
+                    ]
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "author": {
+                            "type": "string"
+                        },
+                        "category": {
+                            "type": "string"
+                        },
+                        "price": {
+                            "type": "number"
+                        },
+                        "title": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "author",
+                        "category",
+                        "price",
+                        "title"
+                    ]
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "author": {
+                            "type": "string"
+                        },
+                        "category": {
+                            "type": "string"
+                        },
+                        "price": {
+                            "type": "number"
+                        },
+                        "title": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "author",
+                        "category",
+                        "price",
+                        "title"
+                    ]
+                },
+                {
+                    "type": "object",
+                    "properties": {
+                        "author": {
+                            "type": "string"
+                        },
+                        "category": {
+                            "type": "string"
+                        },
+                        "price": {
+                            "type": "number"
+                        },
+                        "title": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "author",
+                        "category",
+                        "price",
+                        "title"
+                    ]
+                }
+            ]
+        }
+    },
+    "required": [
+        "book"
+    ]
+}

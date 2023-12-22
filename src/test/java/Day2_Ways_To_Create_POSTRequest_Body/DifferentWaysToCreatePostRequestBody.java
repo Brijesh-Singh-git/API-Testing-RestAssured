@@ -127,7 +127,7 @@ public class DifferentWaysToCreatePostRequestBody {
 
     }
 
-    // 3. POST request body using external JSON File
+    // 4. POST request body using external JSON File
 
     @Test (priority = 4)
     void testPostUsingExternalJSONFile() throws FileNotFoundException {
