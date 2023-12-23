@@ -1,0 +1,30 @@
+<suite name="Suite">
+
+    <test thread-count="5" name="Test1">
+
+    <classes>
+        <class name="StudentAPI_Chaining.CreateUser"/>
+    </classes>
+</test>
+    <test thread-count="5" name="Test2">
+
+        <classes>
+            <class name="StudentAPI_Chaining.GetUser"/>
+        </classes>
+    </test>
+    <test thread-count="5" name="Test3">
+
+        <classes>
+            <class name="StudentAPI_Chaining.UpdateUser"/>
+        </classes>
+    </test>
+    <test thread-count="5" name="Test4">
+
+        <classes>
+            <class name="StudentAPI_Chaining.DeleteUser"/>
+        </classes>
+    </test>
+
+
+
+</suite>
