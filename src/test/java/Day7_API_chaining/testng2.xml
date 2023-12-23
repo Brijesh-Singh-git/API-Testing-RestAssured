@@ -1,0 +1,38 @@
+<suite name="Suite">
+
+<!--    Here we are running all the classes separetly, instead of running in a single go -->
+
+    <test thread-count="5" name="Test1">
+
+        <classes>
+            <class name="Day7_API_chaining.CreateUser"/>
+
+        </classes>
+    </test>
+    <test thread-count="5" name="Test2">
+
+        <classes>
+
+            <class name="Day7_API_chaining.GetUser"/>
+
+        </classes>
+    </test>
+    <test thread-count="5" name="Test3">
+
+        <classes>
+
+            <class name="Day7_API_chaining.UpdateUser"/>
+
+        </classes>
+    </test>
+    <test thread-count="5" name="Test4">
+
+        <classes>
+
+            <class name="Day7_API_chaining.DeleteUser"/>
+        </classes>
+    </test>
+
+
+
+</suite>

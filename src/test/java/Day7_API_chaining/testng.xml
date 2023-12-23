@@ -1,0 +1,15 @@
+<suite name="Suite">
+    <test thread-count="5" name="Test">
+<!--We are running all the classess in a single go, here all the classes are part of single test-->
+
+        <classes>
+            <class name="Day7_API_chaining.CreateUser"/>
+            <class name="Day7_API_chaining.GetUser"/>
+            <class name="Day7_API_chaining.UpdateUser"/>
+            <class name="Day7_API_chaining.DeleteUser"/>
+        </classes>
+    </test>
+
+
+
+</suite>
